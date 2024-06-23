@@ -1,0 +1,19 @@
+{
+    "Ambulance": 0,
+    "Barge": 1,
+    "Bicycle": 2,
+    "Boat": 3,
+    "Bus": 4,
+    "Car": 5,
+    "Cart": 6,
+    "Caterpillar": 7,
+    "Helicopter": 8,
+    "Limousine": 9,
+    "Motorcycle": 10,
+    "Segway": 11,
+    "Snowmobile": 12,
+    "Tank": 13,
+    "Taxi": 14,
+    "Truck": 15,
+    "Van": 16
+}
